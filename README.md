@@ -21,7 +21,6 @@ The MSBT file is intended for use with the appropriate version of Pushmo and the
 A complete installation guide will not be provided for this project. 
 You will need your own legally obtained copy of the game.
 
-Compatibility
 Compatibility with specific game regions, revisions, or modding setups has not yet been fully documented. 
 Please do not assume that the file work with every version of the game.
 
